@@ -15,7 +15,7 @@ Ce projet applique des algorithmes de **régression supervisée** pour prédire 
 ## 📁 Structure du projet
 
 ```
-📦 medical-charges/
+📦 regression_ML/
 ├── regression.ipynb          # Notebook principal (toutes les phases)
 ├── medical-charges.csv       # Dataset source
 └── README.md                 # Ce fichier
